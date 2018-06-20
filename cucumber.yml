@@ -1,0 +1,1 @@
+home: --format html --out homepage.html --format pretty --tags @home,@home_2
